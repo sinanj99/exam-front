@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developed using REACT. <br>
+Demonstrates fundamental concepts suuch as routing, controlled components, hooks, and state.<br>
+Uses REST API exposed by https://github.com/sinanj99/exam.
 
 # Getting started
 
